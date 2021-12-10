@@ -1,6 +1,12 @@
 # Team_SmartWorkers
 Transport decision making for Fairfax County
 
+#### Team_SmartWorkers/Team_Smart_Workers_Showcase_Presentation_Final_Slides.pptx
+Team_Smart_Workers_Showcase_Presentation_Final_Slides.pptx - Contains final showcase presentation .pptx
+
+#### Team_SmartWorkers/DAEN_690_Final report_Team_Smart_Workers.pdf
+DAEN_690_Final report_Team_Smart_Workers.pdf - Contains final project report
+
 #### Team_SmartWorkers/% mismatch based on Transport Unit ID and related features.twbx
 The Visualization shows % mismatch and various influential features. There were specific unit ID's (fire station units) who's behavior was inclined from normal behavior. 
 
